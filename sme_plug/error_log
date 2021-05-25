@@ -1,0 +1,9 @@
+[23-May-2021 01:33:45 America/New_York] PHP Notice:  Undefined index: name in /home/mayocnlm/mlm.mayolad.com/sme_plug/resolve_account.php on line 37
+[23-May-2021 01:33:46 America/New_York] PHP Notice:  Undefined index: email in /home/mayocnlm/mlm.mayolad.com/sme_plug/pay.php on line 14
+[23-May-2021 01:34:04 America/New_York] PHP Notice:  Undefined variable: status in /home/mayocnlm/mlm.mayolad.com/sme_plug/pay.php on line 58
+[23-May-2021 13:22:58 Africa/Lagos] PHP Notice:  Undefined index: email in /home/mayocnlm/mlm.mayolad.com/sme_plug/pay.php on line 14
+[23-May-2021 13:23:39 Africa/Lagos] PHP Notice:  Undefined variable: status in /home/mayocnlm/mlm.mayolad.com/sme_plug/pay.php on line 58
+[23-May-2021 14:29:38 Africa/Lagos] PHP Notice:  Undefined index: email in /home/mayocnlm/mlm.mayolad.com/sme_plug/pay.php on line 15
+[24-May-2021 17:12:42 Africa/Lagos] PHP Notice:  Undefined index: email in /home/mayocnlm/mlm.mayolad.com/sme_plug/pay.php on line 15
+[24-May-2021 17:13:32 Africa/Lagos] PHP Notice:  Undefined index: email in /home/mayocnlm/mlm.mayolad.com/sme_plug/pay.php on line 15
+[24-May-2021 17:15:47 Africa/Lagos] PHP Notice:  Undefined index: email in /home/mayocnlm/mlm.mayolad.com/sme_plug/pay.php on line 15

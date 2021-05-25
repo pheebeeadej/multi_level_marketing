@@ -1,0 +1,9 @@
+[20-May-2021 11:59:01 America/New_York] PHP Warning:  require(inc/connect.php): failed to open stream: No such file or directory in /home/mayocnlm/mlm.mayolad.com/inc/add_ancestor.php on line 2
+[20-May-2021 11:59:01 America/New_York] PHP Fatal error:  require(): Failed opening required 'inc/connect.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mayocnlm/mlm.mayolad.com/inc/add_ancestor.php on line 2
+[20-May-2021 11:59:04 America/New_York] PHP Warning:  require(inc/connect.php): failed to open stream: No such file or directory in /home/mayocnlm/mlm.mayolad.com/inc/add_ancestor.php on line 2
+[20-May-2021 11:59:04 America/New_York] PHP Fatal error:  require(): Failed opening required 'inc/connect.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mayocnlm/mlm.mayolad.com/inc/add_ancestor.php on line 2
+[20-May-2021 11:59:16 America/New_York] PHP Warning:  require(inc/connect.php): failed to open stream: No such file or directory in /home/mayocnlm/mlm.mayolad.com/inc/add_ancestor.php on line 2
+[20-May-2021 11:59:16 America/New_York] PHP Fatal error:  require(): Failed opening required 'inc/connect.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mayocnlm/mlm.mayolad.com/inc/add_ancestor.php on line 2
+[20-May-2021 12:34:09 America/New_York] PHP Notice:  Undefined index: generation in /home/mayocnlm/mlm.mayolad.com/inc/add_ancestor.php on line 5
+[22-May-2021 10:39:22 America/New_York] PHP Notice:  Undefined index: anscestor in /home/mayocnlm/mlm.mayolad.com/inc/add_ancestor.php on line 31
+[22-May-2021 10:42:58 America/New_York] PHP Notice:  Undefined index: anscestor in /home/mayocnlm/mlm.mayolad.com/inc/add_ancestor.php on line 31
